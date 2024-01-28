@@ -7,7 +7,7 @@ employee-app demo
 
 	```bash
 	git clone https://github.com/shekharchauhan100/employee-app
-	cd server
+	cd backend
 	```
 
 2. **Create MySQL database**
@@ -50,6 +50,6 @@ The front-end server will start on port `3000`.
 
 ## Step to access the Swagger 
 
-	After backend server up then access the api with the below url
+After backend server up then access the api with the below url
 
-	```http://localhost:8080/swagger-ui/index.html```
+`http://localhost:8080/swagger-ui/index.html`
