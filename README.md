@@ -5,6 +5,8 @@ employee-app demo
 
 1. **Clone the application**
 
+After clone the application install the `jdk 17` for download please follow the link `https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html`
+
 	```bash
 	git clone https://github.com/shekharchauhan100/employee-app
 	cd backend
@@ -47,6 +49,13 @@ npm install && npm start
 ```
 
 The front-end server will start on port `3000`.
+
+
+## Steps to login the app after backend and frontend server start
+
+When the react application is start login page is open for login the application please use the below credential 
+`UserName: admin`
+`Password: admin`
 
 ## Step to access the Swagger 
 
